@@ -1,13 +1,13 @@
 <h1 align="center">
-  <b>†hê Hêllẞø† 🇮🇳</b>
+  <b>†hê §hïv Hêllẞø† 🇮🇳</b>
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/078df46ef8b32f89aef40.jpg" alt="The-HellBot">
+  <img src="https://telegra.ph/file/a0a10e893087c923e9260.jpg" alt="The-HellBot">
 </p>
 
 <h6 align="center">
-  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ɦɛʟʟɮօt ⚡</b>
+  <b>⚡ ѕнιν ᴀғ ɦɛʟʟɮօt ⚡</b>
 </h6>
 
 <h3 align="center">
@@ -15,7 +15,7 @@
 </h3>
 
 ------
-![GitHub forks](https://img.shields.io/github/forks/The-HellBot/HellBot?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Killerboyxd/ShivHellBot?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/The-HellBot/Hellbot?style=social)
 
 ![Repo Size](https://img.shields.io/github/repo-size/The-HellBot/HellBot?&style=social&logo=github)
@@ -27,8 +27,8 @@
 ![Python](https://img.shields.io/badge/Python-v3.10-white?style=social&logo=python)
 ![GitHub language count](https://img.shields.io/github/languages/count/The-HellBot/HellBot?&style=social&logo=hyper)
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/hellbot_chat)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://t.me/its_hellbot)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/RONNY_KI_DUNIYA)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://t.me/do_dil_ek_jaan143)
 
 ------
 ## Deploy 🚀
@@ -186,6 +186,6 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 ## Credits
 
 - 💖 All the Dependencies
-- 💖 [Team HellBot](https://github.com/The-HellBot)
+- 💖 [🔥•♡⁣⃝𝗦𝚮꯭𝗜🅅__●⃭⃖🔥](https://t.me/ll_SABKA_BHAI_KILLER_ll)
 
 ------
